@@ -1,0 +1,11 @@
+body{
+    padding: 35px;
+}
+
+.complete{
+    text-decoration: line-through;
+}
+
+.hand{
+    cursor: pointer;
+}
