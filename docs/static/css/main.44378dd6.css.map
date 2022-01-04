@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.44378dd6.css","mappings":"AAAA,KACI,YACJ,CAEA,UACI,4BACJ,CAEA,MACI,cACJ","sources":["07-useReducer/style.css"],"sourcesContent":["body{\r\n    padding: 35px;\r\n}\r\n\r\n.complete{\r\n    text-decoration: line-through;\r\n}\r\n\r\n.hand{\r\n    cursor: pointer;\r\n}"],"names":[],"sourceRoot":""}
